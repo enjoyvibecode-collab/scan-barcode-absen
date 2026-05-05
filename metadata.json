@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Absensi QR - SMP",
+  "description": "Aplikasi absensi sekolah menggunakan QR Code dengan fitur dashboard, data siswa, scanner, dan riwayat absensi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
